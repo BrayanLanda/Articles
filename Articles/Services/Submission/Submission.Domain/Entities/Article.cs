@@ -12,5 +12,6 @@ namespace Submission.Domain.Entities
         public ArticleStage Stage { get; set; }
         public int JournalId { get; set; }
         public Journal Journal { get; set; }
+        //test
     }
 }
