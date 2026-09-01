@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/BuildingBlokcs/">
     <Project Path="../src/BuildingBlocks/ArticlesAbstractions/ArticlesAbstractions.csproj" Id="332fec05-8884-49a7-88d6-975dc897e06a" />
+    <Project Path="BuildingBlocks/Blocks.EntityFramework/Blocks.EntityFramework.csproj" Id="67142c90-719d-46b6-9d7e-44bbf4e78619" />
   </Folder>
   <Folder Name="/Services/" />
   <Folder Name="/Services/Submission/">
